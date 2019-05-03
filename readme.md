@@ -13,7 +13,7 @@ Related blog post:[cors and Node-RED using a simple forwarding server](https://s
 
 # Watson Assistant and custom output
 
-You can use the  [Watson Assistant](node-red-flows/node-flow-starting-point-watson-assistant.json) to follow the steps in the following video.
+You can use the  [Watson Assistant Skill](skill/skill-Customer-Care-Sample-Skill.json) and the [Node-RED flow](node-red-flows/node-flow-starting-point-watson-assistant.json)to follow the steps in the following video.
 
 [![Using Watson Assistant](https://img.youtube.com/vi/SFXUxc4JvFY/0.jpg)](https://www.youtube.com/watch?v=SFXUxc4JvFY "Click play on youtube")
 

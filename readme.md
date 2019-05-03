@@ -23,7 +23,7 @@ You can use the  [Watson Assistant Skill](skill/skill-Customer-Care-Sample-Skill
 
 [![Setup Watson Assistant Starter Kit](https://img.youtube.com/vi/vl_vgtxOOuk/0.jpg)](https://www.youtube.com/watch?v=vl_vgtxOOuk "Click play on youtube")
 
-_Note:_ You can import this [customized skill](node-red-flows/node-flow-starting-point-watson-assistant.json) with the temperature intent to your Watson Assistant instance.
+_Note:_ You can import this [customized skill](skill/skill-Customer-Care-Sample-Skill.json) with the temperature intent to your Watson Assistant instance.
 
 2. Setup Node-RED Starter Kit
 

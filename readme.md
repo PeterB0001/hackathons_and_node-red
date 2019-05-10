@@ -6,7 +6,7 @@ Also I provide the basic guide, how to setup these flows.
 The project also contains the applications 
 * [simple forward server](simple_forward_server/readme.md) 
 * [simple web app](simple_web_app/readme.md) 
-related to the topic **Cross-origin resource sharing**. This topic is addresses the direct access from WebApplications to a **REST APIs** build on Node-RED flows.
+related to the topic **Cross-origin resource sharing**. This topic addresses the direct access from WebApplications to a **REST APIs** build on Node-RED flows.
 
 _Note:_ [Peter Schleinitz (@PSchleinitz)](https://twitter.com/PSchleinitz) made a **demo guide** based on this project, for more details please visit his github page [Node-RED Watson Assistant Demo](https://github.com/ibm-cloud-demo-scripts/node-red-watson-assistent)
 

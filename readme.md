@@ -5,6 +5,8 @@ Also I provide the basic guide, how to setup these flows.
 
 The project also contains applications [simple forward server](simple_forward_server/readme.md) and [simple web app](simple_web_app/readme.md) related to Cross-origin resource sharing and Node-RED.
 
+_Note:_ You can also find a usage guide based this project, made by [Peter Schleinitz (@tsuedbroecker)](https://twitter.com/PSchleinitz). For more details visit his github page [Node-RED Watson Assistant Demo](https://github.com/ibm-cloud-demo-scripts/node-red-watson-assistent)
+
 # Cross-origin resource sharing
 
 When you use Node-RED on IBM Cloud during hackathons you will notice REST calls in flows cannot directly be invoked from a web application. The reason for this is mostly that cors (cross-origin resource sharing) is not enabled for the Node-RED server. This blog post is about using a simple workaround to address the given cors (cross-origin resource sharing) problem.

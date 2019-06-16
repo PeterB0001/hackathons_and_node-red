@@ -2955,7 +2955,7 @@
         "type": "function",
         "z": "45837b0e.6ef1c4",
         "name": "",
-        "func": "msg.headers = {};\nmsg.headers['Accept-Encoding'] = 'gzip';\n// msg.params = {\"apiKey\":\"dc5ea0e10f11465f9ea0e10f11e65fa6\"};\nreturn msg;",
+        "func": "msg.headers = {};\nmsg.headers['Accept-Encoding'] = 'gzip';\n// msg.params = {\"apiKey\":\"YOUR_WEATHER_APIKEY\"};\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "x": 290,

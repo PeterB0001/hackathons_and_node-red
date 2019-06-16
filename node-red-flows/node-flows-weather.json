@@ -72,7 +72,7 @@
         "id": "a275e0ef.6d759",
         "type": "http request",
         "z": "45837b0e.6ef1c4",
-        "name": "GET WEATHER - observations.json",
+        "name": "GET WEATHER - forecast/daily",
         "method": "GET",
         "ret": "bin",
         "url": "https://api.weather.com/v1/geocode/52.52437/13.41053/forecast/daily/3day.json?apiKey=YOUR_WEATHER_APIKEY",

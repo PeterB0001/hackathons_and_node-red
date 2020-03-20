@@ -67,7 +67,7 @@ app.post('/postData', function(req, res) {
             body = {"error": error.message };
             res.status(400).json(body);
         } else {
-          console.log("Success: \n", JSON.parse(body));
+          console.log("Success: \n", JSON.stringify(body));
           res.status(200).json(body);
         }
     });    
